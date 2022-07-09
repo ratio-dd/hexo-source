@@ -2,10 +2,8 @@
 title: Linux系统中权限相关学习笔记
 date: 2022-07-09 13:32:52
 categories:
-- [Diary]
 - [Coding]
 tags:
-- diary
 - Linux
 
 ---
